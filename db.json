@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "9a0c",
+      "username": "Shiva",
+      "password": "Raj@123"
+    },
+    {
+      "id": "3459",
+      "username": "shivu",
+      "password": "Shiva@123"
+    },
+    {
+      "id": "3420",
+      "username": "Shiva",
+      "password": "Shiva@123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "Black Magic DSLR Camera",
+      "description": "A beautifully captured image with stunning clarity.",
+      "price": 500,
+      "image_path": "https://resource.holdan.co.uk/Blackmagic%20Design/images/Micro_Studio_Camera.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Canon Videography Camera",
+      "description": "A professional-grade camera for stunning video quality.",
+      "price": 1500,
+      "image_path": "https://in.all.biz/img/in/catalog/425386.jpeg"
+    }
+  ],
+  "furniture": [
+    {
+      "id": "1",
+      "name": "Black Magic DSLR Camera",
+      "description": "A beautifully captured image with stunning clarity.",
+      "price": 500,
+      "image_path": "https://resource.holdan.co.uk/Blackmagic%20Design/images/Micro_Studio_Camera.jpg"
+    },
+    {
+      "id": "2",
+      "name": " GoPro Action Camera",
+      "description": "Capture your adventures in high definition.",
+      "price": 800,
+      "image_path": "https://m.media-amazon.com/images/I/61FTvIGxTwL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Canon Videography Camera",
+      "description": "A professional-grade camera for stunning video quality.",
+      "price": 1500,
+      "image_path": "https://in.all.biz/img/in/catalog/425386.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Camera with Lighting",
+      "description": "Perfect for capturing moments in any lighting condition.",
+      "price": 2500,
+      "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA830DX6rOG4fwbdlWYUVtAN3Z37jF1qiyhg&s"
+    },
+    {
+      "id": "5",
+      "name": "Television Studio Camera",
+      "description": "Ideal for professional broadcasting and studio setups.",
+      "price": 8000,
+      "image_path": "https://i.pinimg.com/736x/09/aa/0f/09aa0fa1800e2437f92fcd85c9e12f59.jpg"
+    }
+  ]
+}
